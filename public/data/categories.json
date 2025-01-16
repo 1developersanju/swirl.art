@@ -16,7 +16,7 @@
     },
     {
       "id": "ready-made",
-      "name": "Ready-Made Products",
+      "name": "Ready Made Products",
       "description": "High-quality products available for immediate purchase",
       "imageUrl": "/placeholder.svg?height=400&width=400",
       "link": "/products/ready-made"
