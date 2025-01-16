@@ -20,6 +20,13 @@
       "description": "High-quality products available for immediate purchase",
       "imageUrl": "/placeholder.svg?height=400&width=400",
       "link": "/products/ready-made"
+    },
+{
+      "id": "Customised ",
+      "name": "Customised Products",
+      "description": "High-quality products available for immediate purchase with your customisation",
+      "imageUrl": "/placeholder.svg?height=400&width=400",
+      "link": "/products/ready-made"
     }
   ]
 }
