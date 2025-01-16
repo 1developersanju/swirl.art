@@ -1,0 +1,26 @@
+{
+  "categories": [
+    {
+      "id": "3d-designs",
+      "name": "3D Designs",
+      "description": "Innovative 3D printed products for modern living",
+      "imageUrl": "/placeholder.svg?height=400&width=400",
+      "link": "/products/3d-designs"
+    },
+    {
+      "id": "custom-products",
+      "name": "Custom Products",
+      "description": "Personalized items tailored to your preferences",
+      "imageUrl": "/placeholder.svg?height=400&width=400",
+      "link": "/products/custom"
+    },
+    {
+      "id": "ready-made",
+      "name": "Ready-Made Products",
+      "description": "High-quality products available for immediate purchase",
+      "imageUrl": "/placeholder.svg?height=400&width=400",
+      "link": "/products/ready-made"
+    }
+  ]
+}
+

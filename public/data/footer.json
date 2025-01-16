@@ -1,0 +1,35 @@
+{
+  "companyInfo": {
+    "name": "Swrilsart",
+    "description": "Unique custom and ready-made products for the discerning customer. Experience the future of personalized shopping."
+  },
+  "quickLinks": [
+    {
+      "label": "Terms of Service",
+      "url": "/terms"
+    },
+    {
+      "label": "Privacy Policy",
+      "url": "/privacy"
+    },
+    {
+      "label": "Contact Us",
+      "url": "/contact"
+    }
+  ],
+  "socialMedia": [
+    {
+      "platform": "Instagram",
+      "url": "https://instagram.com/swrilsart"
+    },
+    {
+      "platform": "Twitter",
+      "url": "https://twitter.com/swrilsart"
+    },
+    {
+      "platform": "Facebook",
+      "url": "https://facebook.com/swrilsart"
+    }
+  ]
+}
+

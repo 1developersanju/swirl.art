@@ -1,0 +1,53 @@
+{
+  "menuItems": [
+    {
+      "id": "home",
+      "label": "Home",
+      "icon": "Home",
+      "link": "/"
+    },
+    {
+      "id": "all-products",
+      "label": "All Products",
+      "icon": "Box",
+      "link": "/products"
+    },
+    {
+      "id": "3d-designs",
+      "label": "3D Designs",
+      "icon": "Paintbrush",
+      "link": "/products/3d-designs"
+    },
+    {
+      "id": "custom-products",
+      "label": "Custom Products",
+      "icon": "Paintbrush",
+      "link": "/products/custom"
+    },
+    {
+      "id": "ready-made",
+      "label": "Ready-Made Products",
+      "icon": "Package",
+      "link": "/products/ready-made"
+    },
+    {
+      "id": "about",
+      "label": "About",
+      "icon": "Info",
+      "link": "/about"
+    },
+    {
+      "id": "contact",
+      "label": "Contact",
+      "icon": "Phone",
+      "link": "/contact"
+    },
+    {
+      "id": "cart",
+      "label": "Cart",
+      "icon": "ShoppingCart",
+      "link": "/cart"
+    }
+  ]
+}
+

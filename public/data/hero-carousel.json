@@ -1,0 +1,41 @@
+{
+  "banners": [
+    {
+      "id": 4,
+      "title": "Swirl Firday",
+      "description": "Buy one get one free",
+      "imageUrl": "https://kzmincd3k1cy8hpapbve.lite.vusercontent.net/placeholder.svg",
+      "link": "/products",
+      "buttonText": "Shop All",
+      "order": 3
+    },
+    {
+      "id": 1,
+      "title": "Summer Sale",
+      "description": "Get 20% off on all 3D designs",
+      "imageUrl": "https://kzmincd3k1cy8hpapbve.lite.vusercontent.net/placeholder.svg",
+      "link": "/products/3d-designs",
+      "buttonText": "Shop Now",
+      "order": 1
+    },
+    {
+      "id": 2,
+      "title": "New Collection",
+      "description": "Discover our latest custom products",
+      "imageUrl": "https://kzmincd3k1cy8hpapbve.lite.vusercontent.net/placeholder.svg",
+      "link": "/products/custom",
+      "buttonText": "Explore",
+      "order": 2
+    },
+    {
+      "id": 3,
+      "title": "Free Shipping",
+      "description": "On orders over $100",
+      "imageUrl": "https://kzmincd3k1cy8hpapbve.lite.vusercontent.net/placeholder.svg",
+      "link": "/products",
+      "buttonText": "Shop All",
+      "order": 3
+    }
+  ]
+}
+

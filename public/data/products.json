@@ -1,0 +1,77 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Ethereal Swirl Vase",
+      "description": "A masterpiece of 3D design, the Ethereal Swirl Vase embodies the perfect fusion of art and function. Its mesmerizing patterns seem to dance in the light, creating a focal point in any space.",
+      "price": 200.10,
+      "imageUrl": "https://kzmincd3k1cy8hpapbve.lite.vusercontent.net/placeholder.svg",
+      "category": "3D Designs",
+      "tags": ["vase", "3d-printed", "home-decor"]
+    },
+    {
+      "id": "2",
+      "name": "Custom Engraved Pendant",
+      "description": "A beautiful pendant that can be customized with your personal message or design. Made from high-quality materials for a lasting keepsake.",
+      "price": 89.99,
+      "imageUrl": "https://kzmincd3k1cy8hpapbve.lite.vusercontent.net/placeholder.svg",
+      "category": "Custom Products",
+      "tags": ["jewelry", "personalized", "gift"]
+    },
+    {
+      "id": "3",
+      "name": "Handcrafted Wooden Clock",
+      "description": "Elegant and functional, this handcrafted wooden clock adds a touch of natural beauty to any room. Each piece is unique, showcasing the natural grain of the wood.",
+      "price": 159.99,
+      "imageUrl": "https://kzmincd3k1cy8hpapbve.lite.vusercontent.net/placeholder.svg",
+      "category": "Ready-Made Products",
+      "tags": ["clock", "wood", "home-decor"]
+    },
+    {
+      "id": "4",
+      "name": "Personalized Photo Frame",
+      "description": "Preserve your cherished memories in style with this customizable photo frame. Add names, dates, or a special message to make it truly unique.",
+      "price": 49.99,
+      "imageUrl": "https://kzmincd3k1cy8hpapbve.lite.vusercontent.net/placeholder.svg",
+      "category": "Custom Products",
+      "tags": ["photo-frame", "personalized", "gift"]
+    },
+    {
+      "id": "5",
+      "name": "Abstract Sculpture",
+      "description": "A stunning 3D-printed abstract sculpture that serves as a conversation starter in any modern interior. Each piece is a unique work of art.",
+      "price": 399.99,
+      "imageUrl": "https://kzmincd3k1cy8hpapbve.lite.vusercontent.net/placeholder.svg",
+      "category": "3D Designs",
+      "tags": ["sculpture", "3d-printed", "art"]
+    },
+    {
+      "id": "6",
+      "name": "Customized Leather Wallet",
+      "description": "A sleek and durable leather wallet that can be personalized with your initials or a short message. Combines style with functionality.",
+      "price": 79.99,
+      "imageUrl": "https://kzmincd3k1cy8hpapbve.lite.vusercontent.net/placeholder.svg",
+      "category": "Custom Products",
+      "tags": ["wallet", "leather", "personalized"]
+    },
+    {
+      "id": "7",
+      "name": "Artisan Ceramic Mug Set",
+      "description": "A set of four handcrafted ceramic mugs, each with a unique glaze pattern. Perfect for your morning coffee or tea ritual.",
+      "price": 69.99,
+      "imageUrl": "https://kzmincd3k1cy8hpapbve.lite.vusercontent.net/placeholder.svg",
+      "category": "Ready-Made Products",
+      "tags": ["mug", "ceramic", "kitchenware"]
+    },
+    {
+      "id": "8",
+      "name": "3D Printed Desk Organizer",
+      "description": "Keep your workspace tidy with this functional and stylish 3D printed desk organizer. Customizable compartments to fit your needs.",
+      "price": 39.99,
+      "imageUrl": "https://kzmincd3k1cy8hpapbve.lite.vusercontent.net/placeholder.svg",
+      "category": "3D Designs",
+      "tags": ["organizer", "3d-printed", "office"]
+    }
+  ]
+}
+
