@@ -13,24 +13,6 @@
       "link": "/products"
     },
     {
-      "id": "3d-designs",
-      "label": "3D Designs",
-      "icon": "Paintbrush",
-      "link": "/products/3d-designs"
-    },
-    {
-      "id": "custom-products",
-      "label": "Custom Products",
-      "icon": "Paintbrush",
-      "link": "/products/custom"
-    },
-    {
-      "id": "ready-made",
-      "label": "Ready-Made Products",
-      "icon": "Package",
-      "link": "/products/ready-made"
-    },
-    {
       "id": "about",
       "label": "About",
       "icon": "Info",

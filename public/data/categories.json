@@ -1,33 +1,32 @@
 {
   "categories": [
     {
-      "id": "3d-designs",
+      "id": "1",
       "name": "3D Designs",
       "description": "Innovative 3D printed products for modern living",
       "imageUrl": "/placeholder.svg?height=400&width=400",
-      "link": "/products/3d-designs"
+      "link": "/category/1"
     },
     {
-      "id": "custom-products",
+      "id": "2",
       "name": "Custom Products",
       "description": "Personalized items tailored to your preferences",
       "imageUrl": "/placeholder.svg?height=400&width=400",
-      "link": "/products/custom"
+      "link": "/category/2"
     },
     {
-      "id": "ready-made",
+      "id": "3",
       "name": "Ready Made Products",
       "description": "High-quality products available for immediate purchase",
       "imageUrl": "/placeholder.svg?height=400&width=400",
-      "link": "/products/ready-made"
+      "link": "/category/3"
     },
-{
-      "id": "Customised ",
+    {
+      "id": "4",
       "name": "Customised Products",
-      "description": "High-quality products available for immediate purchase with your customisation",
+      "description": "High-quality products available for immediate purchase with your customization",
       "imageUrl": "/placeholder.svg?height=400&width=400",
-      "link": "/products/ready-made"
+      "link": "/category/4"
     }
   ]
 }
-

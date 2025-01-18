@@ -8,10 +8,21 @@ interface ProductCardProps {
   name: string
   price: number
   imageUrl: string
-  category: string
+  category: string[] // Change this to accept an array of numbers
 }
 
-export default function ProductCard({ id, name, price, imageUrl, category }: ProductCardProps) {
+export default function ProductCard({
+  id,
+  name,
+  price,
+  imageUrl,
+  category,
+}: ProductCardProps) {
+  // Check if category is an array before using map and join
+  const categoryNames = Array.isArray(category) 
+    ? category.map(c => c.toString()).join(', ') 
+    : '';
+
   return (
     <Card className="overflow-hidden transition-all duration-300 hover:shadow-lg">
       <CardContent className="p-0">
@@ -20,9 +31,8 @@ export default function ProductCard({ id, name, price, imageUrl, category }: Pro
             src={imageUrl}
             alt={name}
             className="object-cover w-full h-full transition-transform duration-300 group-hover:scale-105"
-            width='400'
+            width="400"
             height={400}
-
           />
           <div className="absolute inset-0 bg-black bg-opacity-0 group-hover:bg-opacity-30 transition-opacity duration-300 flex items-center justify-center opacity-0 group-hover:opacity-100">
             <Link href={`/product/${id}`} passHref>
@@ -36,9 +46,8 @@ export default function ProductCard({ id, name, price, imageUrl, category }: Pro
       <CardFooter className="flex flex-col items-start gap-2 p-4">
         <h3 className="font-semibold text-lg text-gray-900 line-clamp-1">{name}</h3>
         <p className="text-sm text-gray-500">${price.toFixed(2)}</p>
-        <p className="text-xs text-gray-400 uppercase tracking-wide">{category}</p>
+        <p className="text-xs text-gray-400 uppercase tracking-wide">{categoryNames}</p> {/* Display categories as a string */}
       </CardFooter>
     </Card>
-  )
+  );
 }
-

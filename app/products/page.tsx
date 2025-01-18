@@ -7,7 +7,7 @@ interface Product {
   name: string
   price: number
   imageUrl: string
-  category: string
+  category: string[]
 }
 
 async function ProductList() {
